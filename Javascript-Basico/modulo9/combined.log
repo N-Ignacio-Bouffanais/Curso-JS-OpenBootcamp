@@ -1,0 +1,7 @@
+{"level":"info","message":"Esto es un mensaje informativo","service":"user-service"}
+{"level":"warn","message":"este es un mensaje de alerta","service":"user-service"}
+{"level":"error","message":"Este es un error","service":"user-service"}
+{"level":"info","message":"Esto es un mensaje informativo","service":"user-service"}
+{"level":"warn","message":"este es un mensaje de alerta","service":"user-service"}
+{"level":"error","message":"Este es un error","service":"user-service"}
+{"level":"error","message":"Error: Error personalidado","service":"user-service"}
